@@ -1,1 +1,1 @@
-web: gunicorn test-project1811/airline.wsgi --log-file -
+web: python manage.py runserver
