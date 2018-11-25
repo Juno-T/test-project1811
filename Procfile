@@ -1,1 +1,1 @@
-web: python airline0/manage.py runserver
+web: gunicorn airline.wsgi
