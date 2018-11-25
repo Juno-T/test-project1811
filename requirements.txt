@@ -1,0 +1,4 @@
+django
+django-heroku
+Jinja2
+requests
