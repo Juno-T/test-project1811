@@ -1,5 +1,7 @@
 django
 django-heroku
 Jinja2
+gunicorn
+dj_static
 requests
 dj_database_url
