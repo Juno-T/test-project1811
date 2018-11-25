@@ -1,1 +1,1 @@
-web: python manage.py runserver
+web: python airline0/manage.py runserver
