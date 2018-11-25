@@ -76,7 +76,7 @@ WSGI_APPLICATION = 'airline.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/2.0/ref/settings/#databases
 
-DATABASES['default'] = dj_database_url.config(conn_max_age=600, ssl_require=false)
+DATABASES['default'] = dj_database_url.config(conn_max_age=600, ssl_require=False)
 
 
 # Password validation
