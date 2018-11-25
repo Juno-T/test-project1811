@@ -2,3 +2,4 @@ django
 django-heroku
 Jinja2
 requests
+dj_database_url
