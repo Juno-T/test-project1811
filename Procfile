@@ -1,1 +1,1 @@
-web: gunicorn airline0/airline.wsgi --log-file -
+web: gunicorn airline.wsgi --log-file -
